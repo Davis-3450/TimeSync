@@ -1,0 +1,2 @@
+# TimeSync
+sync time
