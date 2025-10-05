@@ -4,7 +4,7 @@ A simple script to sync time on Windows.
 ## Usage
 
 ```bash
-git clone https://github.com/yourusername/TimeSync.git
+git clone https://github.com/Davis-3450/TimeSync
 cd TimeSync
 ./sync.bat
 ```
